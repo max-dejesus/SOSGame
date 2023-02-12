@@ -5,7 +5,7 @@
 
 # Language: Java
 # GUI Library: Swing
-# IDE: VSCode
+# IDE: IntelliJ
 # xUnit Framework: JUnit
 
 # Screenshots
