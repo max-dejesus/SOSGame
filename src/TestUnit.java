@@ -6,6 +6,7 @@ public class TestUnit {
     
     @Test
     public void testAdd() {
+        System.out.println("inside test case");
        assertEquals(false,App.getBoolTest());
     }
 }
